@@ -38,7 +38,6 @@ Since 2015, my goal in this space is to continuously progress and become the bes
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/murphym757" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murphym757&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/murphym757"><img src="https://github-readme-stats.vercel.app/api?username=murphym757&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="murphym757's GitHub stats" /></a>
 
 
