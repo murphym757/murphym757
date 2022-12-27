@@ -10,7 +10,9 @@ Since 2015, my goal in this space is to continuously progress and become the bes
 *   ✉️  You can contact me at [maurice.murphy757@gmail.com](mailto:maurice.murphy757@gmail.com)
 *   🧠  I'm learning Data Structures/Algorithms & Web 3.0
 *   🤝  I'm open to collaborating on any projects related to JavaScript (specifically React and React Native)
-*   ⚡  An art lover with an affinity for bright colors and aesthetics. This is often reflected in my everyday life and web development is no different.### Skills 
+*   ⚡  An art lover with an affinity for bright colors and aesthetics. This is often reflected in my everyday life and web development is no different.
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
@@ -36,8 +38,9 @@ Since 2015, my goal in this space is to continuously progress and become the bes
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/murphym757"><img src="https://github-readme-stats.vercel.app/api?username=murphym757&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="murphym757's GitHub stats" /></a>
 <a href="https://github.com/murphym757" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murphym757&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/murphym757"><img src="https://github-readme-stats.vercel.app/api?username=murphym757&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="murphym757's GitHub stats" /></a>
+
 
 <b>Top Repositories</b>
 
