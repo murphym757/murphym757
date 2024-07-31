@@ -6,7 +6,7 @@ Software Engineer. Developer
 
 Since 2015, my goal in this space is to continuously progress and become the best version of myself. Currently, I am working on a React Native app dedicated to one of my favorite past times, gaming.
 
-*   🌍  I'm based in Miami
+*   🌍  I'm based in Downtown Miami
 *   ✉️  You can contact me at [maurice.murphy757@gmail.com](mailto:maurice.murphy757@gmail.com)
 *   🧠  I'm learning Data Structures/Algorithms & Web 3.0
 *   🤝  I'm open to collaborating on any projects related to JavaScript (specifically React and React Native)
