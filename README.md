@@ -35,12 +35,3 @@ Since 2015, my goal in this space is to continuously progress and become the bes
 
 ### Socials  <p align="left"> <a href="https://www.github.com/murphym757" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maurice-murphy-9a39bab7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/murphym757"><img src="https://github-readme-stats.vercel.app/api?username=murphym757&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="murphym757's GitHub stats" /></a>
-
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/murphym757/SgParadise" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=murphym757&repo=SgParadise&title_color=14b8a6&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
