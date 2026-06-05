@@ -28,16 +28,16 @@ Currently focused on AWS and infrastructure-as-code as I transition into cloud e
 
 ## 🛠️ Tech Stack
 
-### Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure
 AWS • CloudFront • Route53 • Lambda • DynamoDB
 
-### Frontend
+### 🎨 Frontend
 React • Next.js • TypeScript
 
-### Backend
+### ⚙️ Backend
 Node.js • Express
 
-### DevOps
+### 🔄 DevOps
 Terraform • Docker • GitHub Actions
 
 ---
