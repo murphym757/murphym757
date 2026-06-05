@@ -75,5 +75,7 @@ Globally distributed static website deployed using infrastructure-as-code.
   <a href="https://www.linkedin.com/in/maurice-murphy-9a39bab7" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="mailto:maurice.murphy757@gmail.com?subject=Hello Maurice&body=Hi Maurice,%0D%0A%0D%0AI found your GitHub profile and wanted to connect.">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </p>
-- Email: maurice.murphy757@gmail.com
