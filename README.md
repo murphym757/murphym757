@@ -43,7 +43,7 @@ Terraform • Docker • GitHub Actions
 ---
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -75,7 +75,10 @@ Globally distributed static website deployed using infrastructure-as-code.
   <a href="https://www.linkedin.com/in/maurice-murphy-9a39bab7" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-    <a href="mailto:maurice.murphy757@gmail.com?subject=Hello Maurice&body=Hi Maurice,%0D%0A%0D%0AI found your GitHub profile and wanted to connect.">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+  <a href="mailto:maurice.murphy757@gmail.com?subject=Hello Maurice&body=Hi Maurice,%0D%0A%0D%0AI found your GitHub profile and wanted to connect.">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://dev.to/murphym757" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
